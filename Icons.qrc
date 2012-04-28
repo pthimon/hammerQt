@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>images/16x16/view-fullscreen.png</file>
+    <file>images/16x16/document-open-recent.png</file>
+    <file>images/16x16/document-save-as.png</file>
+    <file>images/16x16/document-save.png</file>
+    <file>images/16x16/document-new.png</file>
+    <file>images/16x16/application-exit.png</file>
+    <file>images/16x16/document-open.png</file>
+    <file>images/16x16/document-open-remote.png</file>
+  </qresource>
+</RCC>
