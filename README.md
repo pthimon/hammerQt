@@ -2,7 +2,13 @@ HammerQt Synthetic Environment
 ========
 Copyright Simon Butler (2010)
 
+Introduction
+------------
+
 This is the simulator for my [PhD thesis](http://simon-butler.com/Thesis). 
+
+Compilation
+-----------
 
 You will need to install [Delta3D](http://www.delta3d.org) and all of its dependencies. You also need my [clustering library](http://simon-butler.com/images/2/27/Clustering.tar.gz).
 
@@ -19,16 +25,20 @@ To compile, first copy the [data files](http://simon-butler.com/hammerQt-data.ta
 `qmake`
 `make`
 
+Execution
+---------
+
 To run:
 `./hammerQt --gui`
 
 For more details of the program operation run
 `./hammerQt --help`
 
+Controls
+--------
+
 Controls for 3D view:
-* Left mouse button: Select unit (click and drag to select multiple) 
-** Click again to set destination
-** Ctrl+click to set waypoint
+* Left mouse button: Select unit (click and drag to select multiple), click again to set destination, ctrl+click to set waypoint
 * Right mouse button: Move camera
 * Middle mouse button: Rotate camera
 * Middle mouse scroll: Zoom camera
