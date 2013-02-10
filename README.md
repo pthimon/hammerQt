@@ -10,7 +10,7 @@ This is the simulator for my [PhD thesis](http://simon-butler.com/Thesis).
 Compilation
 -----------
 
-You will need to install [Delta3D](http://www.delta3d.org) and all of its dependencies. You also need my [clustering library](http://simon-butler.com/images/2/27/Clustering.tar.gz).
+You will need to install [Delta3D](http://www.delta3d.org) and all of its dependencies. You also need my [clustering library](https://github.com/pthimon/clustering.)
 
 Tested using Delta3D version 2.2.0 and OpenSUSE 12.1
 
